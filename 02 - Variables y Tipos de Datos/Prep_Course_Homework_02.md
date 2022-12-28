@@ -50,4 +50,4 @@
 
 25) Realizar la operación 2 + '2' ¿Por qué no está permitido? ¿Si los dos operandos serían del mismo tipo, siempre arrojaría el mismo resultado?
 
-26) Realizar una operación válida entre valores de tipo entero y string
+26) Realizar una operación válida entre valores de tipo entero y stringg
